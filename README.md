@@ -3,6 +3,9 @@ python useful and cool toolbox
 
 ## Install
 
+it is not absolutely necessary to install all modules (requirements.txt), 
+it depends on the project
+
 ```
 git clone https://github.com/octopusengine/py_uctx.git
 cd py_uctx
